@@ -1,10 +1,11 @@
 <img alt="Matter.js" src="http://brm.io/matter-js/img/matter-js.svg" width="300">
 
-> *Matter.js* is a JavaScript 2D rigid body physics engine for the web
+> _Matter.js_ is a JavaScript 2D rigid body physics engine for the web
+> Modified by Ahlsell Labs
 
 [brm.io/matter-js](http://brm.io/matter-js/)
 
-[Demos](#demos) - [Gallery](#gallery) - [Features](#features) - [Plugins](#plugins) - [Install](#install) - [Usage](#usage) - [Examples](#examples) -  [Docs](#documentation) - [Wiki](https://github.com/liabru/matter-js/wiki) - [References](#references) - [License](#license)
+[Demos](#demos) - [Gallery](#gallery) - [Features](#features) - [Plugins](#plugins) - [Install](#install) - [Usage](#usage) - [Examples](#examples) - [Docs](#documentation) - [Wiki](https://github.com/liabru/matter-js/wiki) - [References](#references) - [License](#license)
 
 [![Build Status](https://travis-ci.org/liabru/matter-js.png?branch=master)](https://travis-ci.org/liabru/matter-js)
 
@@ -122,7 +123,7 @@ You can also install using the package managers [Bower](http://bower.io/search/?
 
 ### Usage
 
-Visit the [Getting started](https://github.com/liabru/matter-js/wiki/Getting-started) wiki page for a minimal usage example which should work in both browsers and Node.js.  
+Visit the [Getting started](https://github.com/liabru/matter-js/wiki/Getting-started) wiki page for a minimal usage example which should work in both browsers and Node.js.
 Also see the [Running](https://github.com/liabru/matter-js/wiki/Running) and [Rendering](https://github.com/liabru/matter-js/wiki/Rendering) wiki pages, which show how to use your own game and rendering loops.
 
 ### Tutorials
@@ -131,7 +132,7 @@ See the list of [tutorials](https://github.com/liabru/matter-js/wiki/Tutorials).
 
 ### Examples
 
-See the [examples](https://github.com/liabru/matter-js/tree/master/examples) directory which contains the source for all [demos](#demos).  
+See the [examples](https://github.com/liabru/matter-js/tree/master/examples) directory which contains the source for all [demos](#demos).
 There are even more examples on [codepen](http://codepen.io/collection/Fuagy/).
 
 ### Plugins
@@ -151,11 +152,11 @@ See the [API Documentation](http://brm.io/matter-js/docs/) and the [wiki](https:
 
 To build you must first install [node.js](http://nodejs.org/) and [gulp](http://gulpjs.com/), then run
 
-	npm install
+    npm install
 
 This will install the required build dependencies, then run
 
-	gulp dev
+    gulp dev
 
 to spawn a development server. For information on contributing see [CONTRIBUTING.md](https://github.com/liabru/matter-js/blob/master/CONTRIBUTING.md).
 
@@ -169,8 +170,8 @@ See the wiki page on [References](https://github.com/liabru/matter-js/wiki/Refer
 
 ### License
 
-Matter.js is licensed under [The MIT License (MIT)](http://opensource.org/licenses/MIT)  
+Matter.js is licensed under [The MIT License (MIT)](http://opensource.org/licenses/MIT)
 Copyright (c) 2014 Liam Brummitt
 
-This license is also supplied with the release and source code.  
+This license is also supplied with the release and source code.
 As stated in the license, absolutely no warranty is provided.
